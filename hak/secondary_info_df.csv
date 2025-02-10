@@ -1,0 +1,426 @@
+CODIGO,NOMBRE,EMBALSE,X,Y,DEMARC,PROVINCIA,CCAA,TIPO,INFORME,ID,AMBITO_NOMBRE,EMBALSE_NOMBRE,AGUA_TOTAL,ELECTRICO_FLAG
+,,,,,,,,,,1,guadalquivir,"breña, la",103.0,0
+5230036.0,"fernandina, la","fernandina, la","38,179645624","-3,57022439999997",guadalquivir,jaén,andalucía,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1572,3,guadalquivir,"fernandina, la",247.0,0
+5410131.0,puebla de cazalla,puebla de cazalla,"37,1297715490001","-5,24330867699996",guadalquivir,sevilla,andalucía,presa de fábrica de gravedad (hormigón compactado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1773,5,guadalquivir,puebla de cazalla,87.0,0
+,,,,,,,,,,6,guadalquivir,pedro marín,19.0,0
+6290013.0,"viñuela, la",reservoir la viñuela,"36,8603996900001","-4,16443532799997",cuencas mediterraneas andaluzas,málaga,andalucía,presa de materiales sueltos de pantalla de hormigón,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1966,9,cuenca mediterránea andaluza,"viñuela, la",170.0,0
+6180003.0,rules,rules reservoir,"36,860509918","-3,49543042599993",cuencas mediterraneas andaluzas,granada,andalucía,presa de fábrica de arco-gravedad,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1952,11,cuenca mediterránea andaluza,rules,111.0,0
+,,,,,,,,,,12,guadiana,búrdalo,79.0,0
+,,,,,,,,,,14,guadiana,la cabezuela,43.0,0
+,,,,,,,,,,18,miño - sil,castrelo,60.0,1
+1320012.0,cenza,cenza,"42,1958472700001","-7,24682463199997",miño-sil,ourense,galicia,presa de fábrica de gravedad (hormigón compactado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=97,19,miño - sil,cenza,40.0,1
+1270004.0,vilasouto,vilasouto,"42,660979092","-7,42345703199993",miño-sil,lugo,galicia,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=64,22,miño - sil,vilasouto,21.0,0
+,,,,,,,,,,24,tajo,burguillo - puente nuevo,217.0,0
+3190016.0,entrepeñas,entrepeñas reservoir,"40,4930851390001","-2,75082189599993",tajo,guadalajara,castilla - la mancha,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=752,26,tajo,entrepeñas,886.0,0
+3100021.0,valdeobispo,valdeobispo,"40,099036471","-6,25053019799998",tajo,cáceres,extremadura,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=555,29,tajo,valdeobispo,53.0,0
+,,,,,,,,,,32,segura,talave,35.0,0
+,,,,,,,,,,34,júcar,arenós,137.0,0
+8460019.0,cortes ii,cortes-la muela reservoir,"39,261640399","-0,918337680999969",jucar,valència/valencia,comunitat valenciana,presa de fábrica de arco-gravedad,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2313,36,júcar,cortes ii,118.0,1
+8460021.0,contreras,contreras,"39,5435634520001","-1,50316294099997",jucar,valència/valencia,comunitat valenciana,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2314,38,júcar,contreras,874.0,0
+8460022.0,contreras,contreras,"39,5432230330001","-1,51032713299998",jucar,cuenca,castilla - la mancha,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2315,38,júcar,contreras,874.0,0
+8030092.0,guadalest,guadalest reservoir,"38,679938329","-0,19178029699998",jucar,alacant/alicante,comunitat valenciana,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2243,40,júcar,guadalest,13.0,0
+8120011.0,ulldecona,ulldecona dam,"40,670915209","0,233962578000046",jucar,castelló/castellón,comunitat valenciana,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2266,42,júcar,ulldecona,11.0,0
+9220017.0,barasona,barasona reservoir,"42,124230776","0,311147826000024",ebro,huesca,aragón,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2434,44,ebro,barasona,92.0,0
+9440007.0,calanda,calanda,"40,9154746140001","-0,211212751999938",ebro,teruel,aragón,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2800,46,ebro,calanda,54.0,0
+9440002.0,cueva foradada,cueva foradada reservoir,"40,9872073600001","-0,692681022999977",ebro,teruel,aragón,presa de fábrica de mampostería,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2795,47,ebro,cueva foradada,29.0,0
+9250049.0,cavallers,cavallers,"42,58555584","0,854115437000075",ebro,lleida,cataluña,presa de fábrica de contrafuertes,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2593,48,ebro,cavallers,16.0,1
+,,,,,,,,,,50,ebro,puente de santolea,18.0,0
+,,,,,,,,,,51,ebro,san salvador,137.0,0
+9310030.0,urdalur,urdalur,"42,916911187","-2,23343148499993",ebro,navarra,comunidad foral de navarra,presa de fábrica de gravedad (hormigón compactado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2742,52,ebro,urdalur,6.0,0
+,,,,,,,,,,54,ebro,sistema lagos espot,10.0,1
+,,,,,,,,,,55,ebro,sotonera,189.0,0
+1090002.0,ordunte,ordunte,"43,1604152670001","-3,28388846399997",cantabrico oriental,burgos,castilla y león,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=13,58,cantábrico oriental,ordunte,22.0,0
+5410045.0,cala,cala,"37,7222268940001","-6,08896625199998",guadalquivir,sevilla,andalucía,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1688,60,guadalquivir,cala,59.0,1
+5180017.0,canales,embalse de canales,"37,1604689060001","-3,48047606499995",guadalquivir,granada,andalucía,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1520,61,guadalquivir,canales,71.0,0
+,,,,,,,,,,64,guadalquivir,malpasillo ( jauja ),6.0,0
+,,,,,,,,,,65,guadalquivir,quéntar,14.0,0
+4210092.0,piedras,piedras,"37,366812629","-7,26645658799993","tinto, odiel y piedras",huelva,andalucía,presa de materiales sueltos de pantalla de hormigón,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1296,69,tinto. odiel y piedras,piedras,60.0,0
+,,,,,,,,,,70,tinto. odiel y piedras,sancho,58.0,0
+,,,,,,,,,,71,miño - sil,chandrexa,61.0,1
+1360002.0,frieira,frieira,"42,1557461190001","-8,19287681099996",miño-sil,ourense,galicia,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=168,72,miño - sil,frieira,44.0,1
+1320037.0,velle,velle,"42,357859342","-7,85142526699997",miño-sil,ourense,galicia,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=122,74,miño - sil,velle,17.0,1
+2400001.0,burgomillodo,burgomillodo reservoir,"41,337311189","-3,88541240699993",duero,segovia,castilla y león,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=406,75,duero,burgomillodo,15.0,1
+2420001.0,cuerda del pozo,cuerda del pozo reservoir,"41,875818591","-2,70401966899993",duero,soria,castilla y león,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=438,77,duero,cuerda del pozo,249.0,0
+2370024.0,irueña,irueña reservoir,"40,4443173830001","-6,57938884699996",duero,salamanca,castilla y león,presa de fábrica de arco-gravedad,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=384,78,duero,irueña,110.0,0
+,,,,,,,,,,80,tajo,baños,41.0,0
+,,,,,,,,,,89,ebro,gonzález lacasa,33.0,0
+9260022.0,mansilla,embalse de mansilla,"42,158172941","-2,91170796899996",ebro,la rioja,la rioja,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2682,91,ebro,mansilla,68.0,0
+,,,,,,,,,,92,ebro,moneva,8.0,0
+,,,,,,,,,,94,galicia costa,cecebre,22.0,0
+10430005.0,riudecanyes,riudecanyes,"41,133459546","0,958540952000021",cuencas internas de cataluña,tarragona,cataluña,presa de fábrica de mampostería,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2918,95,cuencas internas de cataluña,riudecanyes,5.0,0
+14150017.0,portodemouros,portodemouros reservoir,"42,856207614","-8,19033879699998",galicia-costa,pontevedra,galicia,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=3096,96,galicia costa,portodemouros,297.0,1
+,,,,,,,,,,97,cuencas internas de cataluña,boadella,62.0,0
+9500008.0,"tranquera, la",reservoir of la tranquera,"41,262569371","-1,79716175699997",ebro,zaragoza,aragón,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2821,98,ebro,"tranquera, la",84.0,0
+5140042.0,arenoso,arenós reservoir,"38,0210076590001","-4,44123809399997",guadalquivir,córdoba,andalucía,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1463,100,guadalquivir,arenoso,167.0,0
+5140011.0,sierra boyera,embalse de sierra boyera,"38,2579828190001","-5,22281439599993",guadalquivir,córdoba,andalucía,presa mixta,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1433,108,guadalquivir,sierra boyera,41.0,0
+5140015.0,sierra boyera,embalse de sierra boyera,"38,2608073970001","-5,22164337099997",guadalquivir,córdoba,andalucía,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1437,108,guadalquivir,sierra boyera,41.0,0
+,,,,,,,,,,109,guadalquivir,zufre,179.0,0
+5110008.0,barbate,embalse de barbate,"36,37044293","-5,74144173299993",guadalete y barbate,cádiz,andalucía,presa de materiales sueltos homogénea,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1334,113,guadalete-barbate,barbate,228.0,0
+5110012.0,barbate,embalse de barbate,"36,3594386510001","-5,73595225699995",guadalete y barbate,cádiz,andalucía,presa de materiales sueltos homogénea,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1338,113,guadalete-barbate,barbate,228.0,0
+5110026.0,barbate,embalse de barbate,"36,361376706","-5,73829324399998",guadalete y barbate,cádiz,andalucía,presa de materiales sueltos homogénea,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1351,113,guadalete-barbate,barbate,228.0,0
+,,,,,,,,,,114,guadiana,"aguijón, el",11.0,0
+,,,,,,,,,,115,guadiana,canchales,26.0,0
+,,,,,,,,,,117,guadiana,la serena,3219.0,0
+1320039.0,albarellos,albarellos,"42,3997502070001","-8,19041297799993",miño-sil,ourense,galicia,presa de fábrica de bóveda,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=124,119,miño - sil,albarellos,91.0,1
+,,,,,,,,,,120,miño - sil,edrada-mao,15.0,1
+,,,,,,,,,,121,duero,aguilar,247.0,0
+,,,,,,,,,,122,duero,aldeadávila,115.0,1
+2340006.0,camporredondo,camporredondo,"42,8991049300001","-4,73748905099995",duero,palencia,castilla y león,presa de fábrica de mampostería,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=343,124,duero,camporredondo,70.0,0
+2490012.0,castro,castro reservoir,"41,57537726","-6,18722467599997",duero,zamora,castilla y león,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=479,126,duero,castro,38.0,1
+2400015.0,linares del arroyo,linares del arroyo,"41,527351971","-3,55592977299995",duero,segovia,castilla y león,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=420,127,duero,linares del arroyo,58.0,0
+2490015.0,ricobayo,ricobayo reservoir,"41,527467749","-5,98543277699997",duero,zamora,castilla y león,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=482,129,duero,ricobayo,1200.0,1
+3280050.0,navacerrada,navacerrada,"40,7150019000001","-4,00500334299994",tajo,madrid,comunidad de madrid,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=827,133,tajo,navacerrada,11.0,0
+3100074.0,salor,valdesalor reservoir,"39,363901431","-6,30464727599997",tajo,cáceres,extremadura,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=608,135,tajo,salor,14.0,0
+,,,,,,,,,,137,segura,anchuricas,8.0,1
+,,,,,,,,,,138,segura,la pedrera,246.0,0
+,,,,,,,,,,141,júcar,regajo,6.0,0
+9250005.0,camarasa,camarasa,"41,9079463640001","0,88683086900005",ebro,lleida,cataluña,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2555,142,ebro,camarasa,163.0,1
+9390001.0,ebro,ebro reservoir,"42,969946861","-4,05169448199996",ebro,cantabria,cantabria,presa de fábrica de mampostería,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2756,143,ebro,ebro,541.0,0
+,,,,,,,,,,144,ebro,las fitas,9.0,0
+9250031.0,sallente,sallente,"42,5003709690001","0,991459934000034",ebro,lleida,cataluña,presa de materiales sueltos de pantalla asfáltica,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2580,145,ebro,sallente,6.0,1
+,,,,,,,,,,148,ebro,sistema capdella,50.0,1
+9010013.0,ullivarri,ullivarri,"42,9292733350001","-2,61677326299997",ebro,araba/álava,país vasco,presa de fábrica de contrafuertes,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2375,149,ebro,ullivarri,147.0,1
+,,,,,,,,,,151,cantábrico occidental,"barca, la",35.0,1
+,,,,,,,,,,155,guadalquivir,"carpio, el",20.0,1
+,,,,,,,,,,156,guadalquivir,doña aldonza,23.0,1
+,,,,,,,,,,157,guadalquivir,fresneda,19.0,0
+5230047.0,guadalmena,embalse del guadalmena,"38,3634923170001","-2,91397881899996",guadalquivir,jaén,andalucía,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1582,159,guadalquivir,guadalmena,347.0,0
+5410036.0,huesna,huesna,"37,769635302","-5,68521394399994",guadalquivir,sevilla,andalucía,presa de materiales sueltos de pantalla asfáltica,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1679,160,guadalquivir,huesna,138.0,0
+,,,,,,,,,,161,guadalquivir,marmolejo,13.0,1
+5140004.0,puente nuevo,embalse de puente nuevo,"38,08606718","-4,92546965099996",guadalquivir,córdoba,andalucía,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1426,162,guadalquivir,puente nuevo,286.0,0
+,,,,,,,,,,164,guadalquivir,siles,30.0,0
+,,,,,,,,,,170,guadiana,boquerón,6.0,0
+4210044.0,chanza,chança dam,"37,5584664020001","-7,52075869499993",guadiana,huelva,andalucía,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1249,171,guadiana,chanza,386.0,0
+4060102.0,montijo,montijo,"38,9236610560001","-6,42868094199997",guadiana,badajoz,extremadura,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1027,172,guadiana,montijo,11.0,0
+4130018.0,peñarroya,peñarroya dam,"39,0603072490001","-3,00679625799995",guadiana,ciudad real,castilla - la mancha,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1106,173,guadiana,peñarroya,51.0,0
+1240018.0,"campañana, la",campañana reservoir,"42,498086748","-6,76967359799994",miño-sil,león,castilla y león,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=51,177,miño - sil,"campañana, la",14.0,1
+1240016.0,"campañana, la",campañana reservoir,"42,50033776","-6,75720479699993",miño-sil,león,castilla y león,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=49,177,miño - sil,"campañana, la",14.0,1
+1320044.0,"portas, las","portas, las","42,1144376730001","-7,20922708099994",miño-sil,ourense,galicia,presa de fábrica de bóveda,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=129,178,miño - sil,"portas, las",536.0,1
+,,,,,,,,,,181,duero,úzquiza,75.0,0
+,,,,,,,,,,182,duero,"vencías, las",5.0,1
+,,,,,,,,,,183,tajo,cáceres - guadiloba,20.0,0
+,,,,,,,,,,184,tajo,jerte - plasencia,59.0,0
+3100053.0,rivera de gata,rivera de gata,"40,1331552600001","-6,64763777499996",tajo,cáceres,extremadura,presa de materiales sueltos homogénea,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=587,186,tajo,rivera de gata,49.0,0
+3100055.0,rivera de gata,rivera de gata,"40,133555319","-6,64914969899996",tajo,cáceres,extremadura,presa de materiales sueltos homogénea,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=589,186,tajo,rivera de gata,49.0,0
+3100057.0,rivera de gata,rivera de gata,"40,13470955","-6,65231398199995",tajo,cáceres,extremadura,presa de materiales sueltos homogénea,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=591,186,tajo,rivera de gata,49.0,0
+3100060.0,rivera de gata,rivera de gata,"40,1363966490001","-6,63871159399997",tajo,cáceres,extremadura,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=594,186,tajo,rivera de gata,49.0,0
+3100058.0,rivera de gata,rivera de gata,"40,136254439","-6,63615789899995",tajo,cáceres,extremadura,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=592,186,tajo,rivera de gata,49.0,0
+3100059.0,rivera de gata,rivera de gata,"40,1343097810001","-6,62565077899995",tajo,cáceres,extremadura,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=593,186,tajo,rivera de gata,49.0,0
+3100012.0,rivera de gata,rivera de gata,"40,134844602","-6,63285012399996",tajo,cáceres,extremadura,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=546,186,tajo,rivera de gata,49.0,0
+3190032.0,"vado, el",el vado reservoir,"41,0034892630001","-3,30090199199998",tajo,guadalajara,castilla - la mancha,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=767,187,tajo,"vado, el",56.0,0
+3190029.0,"vado, el",el vado reservoir,"41,002339229","-3,29625935399997",tajo,guadalajara,castilla - la mancha,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=764,187,tajo,"vado, el",56.0,0
+,,,,,,,,,,188,segura,puentes,26.0,0
+7020002.0,fuensanta,fuensanta reservoir,"38,3912491360001","-2,20834281199996",segura,albacete,castilla - la mancha,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2004,189,segura,fuensanta,210.0,0
+8460004.0,forata,forata reservoir,"39,340702734","-0,86476747599994",jucar,valència/valencia,comunitat valenciana,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2301,191,júcar,forata,37.0,0
+9220021.0,canelles,canelles reservoir,"41,9785559910001","0,612325865000059",ebro,huesca,aragón,presa de fábrica de bóveda,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2438,192,ebro,canelles,688.0,1
+,,,,,,,,,,194,ebro,eúgui,21.0,0
+9250050.0,oliana,oliana reservoir,"42,092702178","1,29406967700004",ebro,lleida,cataluña,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2594,195,ebro,oliana,101.0,0
+,,,,,,,,,,196,ebro,montearagón,52.0,0
+,,,,,,,,,,200,cantábrico occidental,rioseco,4.0,0
+5230002.0,"bolera, la","bolera, la","37,7622489710001","-2,90313354799997",guadalquivir,jaén,andalucía,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1538,203,guadalquivir,"bolera, la",54.0,0
+5180012.0,cubillas,embalse de cubillas,"37,274509489","-3,68317058099996",guadalquivir,granada,andalucía,presa de materiales sueltos homogénea,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1515,204,guadalquivir,cubillas,21.0,0
+,,,,,,,,,,205,guadalquivir,hornachuelos,18.0,0
+,,,,,,,,,,209,cuenca mediterránea andaluza,béznar,56.0,0
+,,,,,,,,,,212,guadalete-barbate,zahara-el gastor,223.0,0
+,,,,,,,,,,215,guadiana,el vicario,32.0,0
+4100026.0,cubilar,cubilar,"39,237347379","-5,47071172699998",guadiana,cáceres,extremadura,presa de materiales sueltos homogénea,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1075,216,guadiana,cubilar,10.0,0
+,,,,,,,,,,218,guadiana,llerena,9.0,0
+,,,,,,,,,,220,guadiana,"pto, vallehermoso",7.0,0
+4060036.0,villar del rey,villar del rey,"39,1519574230001","-6,86669007999996",guadiana,badajoz,extremadura,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=963,221,guadiana,villar del rey,134.0,0
+,,,,,,,,,,222,ebro,valdepatao,6.0,0
+,,,,,,,,,,223,ebro,terroba,8.0,0
+,,,,,,,,,,224,cantábrico oriental,san antón,5.0,0
+5210003.0,aracena,aracena,"37,9078896870001","-6,45184509099994",guadalquivir,huelva,andalucía,presa de fábrica de contrafuertes,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1531,226,guadalquivir,aracena,129.0,0
+,,,,,,,,,,231,guadalquivir,montoro,105.0,0
+5140048.0,retortillo,embalse de retortillo,"37,8413896820001","-5,34934339699993",guadalquivir,sevilla,andalucía,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1469,235,guadalquivir,retortillo,73.0,0
+,,,,,,,,,,237,guadalquivir,torre del águila,66.0,0
+,,,,,,,,,,240,guadalete-barbate,almodóvar,6.0,0
+,,,,,,,,,,241,cuenca mediterránea andaluza,limonero,25.0,0
+6110005.0,guadarranque,guadarranque reservoir,"36,3087665890001","-5,46145982799993",cuencas mediterraneas andaluzas,cádiz,andalucía,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1942,242,cuenca mediterránea andaluza,guadarranque,88.0,0
+,,,,,,,,,,246,guadiana,tentudia,5.0,0
+1270005.0,belesar,belesar reservoir,"42,6287771620001","-7,71239387399993",miño-sil,lugo,galicia,presa de fábrica de bóveda,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=65,247,miño - sil,belesar,655.0,1
+2370031.0,almendra,almendra reservoir,"41,2714941880001","-6,32020866599993",duero,zamora,castilla y león,presa de fábrica de bóveda,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=391,249,duero,almendra,2649.0,1
+2340015.0,cervera,cervera,"42,8660505030001","-4,52768060999995",duero,palencia,castilla y león,presa de fábrica de mampostería,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=352,250,duero,cervera,11.0,0
+,,,,,,,,,,251,duero,san josé,6.0,0
+3190008.0,bolarque,bolarque reservoir,"40,363245856","-2,81868119299997",tajo,guadalajara,castilla - la mancha,presa de fábrica de mampostería,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=744,254,tajo,bolarque,31.0,1
+,,,,,,,,,,255,tajo,buendía,1705.0,0
+,,,,,,,,,,256,tajo,guijo de granadilla,13.0,1
+3280040.0,"villar, el",el villar reservoir,"40,9474491760001","-3,56294228099995",tajo,madrid,comunidad de madrid,presa de fábrica de mampostería,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=817,257,tajo,"villar, el",23.0,0
+3280007.0,valmayor,valmayor reservoir,"40,535345943","-4,04728874499995",tajo,madrid,comunidad de madrid,presa de materiales sueltos de pantalla asfáltica,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=786,258,tajo,valmayor,124.0,0
+9310034.0,irabia,irabia,"42,9849261200001","-1,15747190799993",ebro,navarra,comunidad foral de navarra,presa de fábrica de mampostería,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2746,261,ebro,irabia,14.0,1
+,,,,,,,,,,262,ebro,"grado, el",400.0,0
+,,,,,,,,,,264,ebro,monteagudo,10.0,0
+9250019.0,rialb,rialb,"41,939892881","1,19279358700004",ebro,lleida,cataluña,presa de fábrica de gravedad (hormigón compactado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2569,265,ebro,rialb,404.0,0
+9220076.0,santa ana,santa ana,"41,8825060980001","0,580849584000021",ebro,huesca,aragón,presa de fábrica de arco-gravedad,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2491,266,ebro,santa ana,237.0,0
+,,,,,,,,,,267,ebro,san lorenzo,10.0,1
+,,,,,,,,,,273,cantábrico occidental,arbón,41.0,1
+,,,,,,,,,,277,guadalquivir,derivación retortillo,8.0,0
+,,,,,,,,,,283,guadalquivir,guillena,5.0,1
+,,,,,,,,,,285,guadalquivir,negratín,571.0,0
+,,,,,,,,,,286,guadalquivir,villafranca,6.0,0
+,,,,,,,,,,287,guadalquivir,víboras,19.0,0
+,,,,,,,,,,288,cuenca mediterránea andaluza,concepción,62.0,0
+,,,,,,,,,,292,guadiana,alcollarín,52.0,0
+4060031.0,piedra aguda,piedra aguda,"38,68712586","-7,02207805699993",guadiana,badajoz,extremadura,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=958,296,guadiana,piedra aguda,16.0,0
+4210052.0,jarrama,jarrama,"37,667643459","-6,50982948899997","tinto, odiel y piedras",huelva,andalucía,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1256,300,tinto. odiel y piedras,jarrama,43.0,0
+1320033.0,salas,salas,"41,9246563240001","-7,94313212699996",miño-sil,ourense,galicia,presa de fábrica de contrafuertes,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=118,301,miño - sil,salas,87.0,1
+2490004.0,puente porto,puente porto,"42,1158687330001","-6,83043827699993",duero,zamora,castilla y león,presa de fábrica de contrafuertes,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=471,303,duero,puente porto,23.0,1
+3280048.0,"atazar, el",el atazar reservoir,"40,9119621410001","-3,47348717199998",tajo,madrid,comunidad de madrid,presa de fábrica de bóveda,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=825,304,tajo,"atazar, el",426.0,0
+7300041.0,alfonso xiii,alfonso xiii,"38,2232084","-1,59952768299996",segura,murcia,región de murcia,presa de fábrica de mampostería,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2077,306,segura,alfonso xiii,22.0,0
+7030005.0,crevillente,crevillente,"38,2573070890001","-0,791022540999961",segura,alacant/alicante,comunitat valenciana,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2018,307,segura,crevillente,13.0,0
+8460013.0,loriguilla,loriguilla reservoir,"39,6655252350001","-0,91324766799994",jucar,valència/valencia,comunitat valenciana,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2308,309,júcar,loriguilla,73.0,0
+9220022.0,baserca,baserca reservoir,"42,578713312","0,758746737000024",ebro,lleida,cataluña,presa de fábrica de bóveda,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2439,311,ebro,baserca,22.0,1
+,,,,,,,,,,312,ebro,certescáns,16.0,1
+,,,,,,,,,,313,ebro,ip,5.0,1
+,,,,,,,,,,314,ebro,mar (lago),14.0,1
+,,,,,,,,,,316,galicia costa,sta uxia,18.0,1
+,,,,,,,,,,318,cuencas internas de cataluña,la baells,115.0,0
+15200006.0,ibai-eder,ibai-eder,"43,1287549570001","-2,22691844199994",cantabrico oriental,gipuzkoa/guipúzcoa,país vasco,presa de materiales sueltos de pantalla de hormigón,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=3121,319,cuencas internas del país vasco,ibai-eder,11.0,0
+,,,,,,,,,,324,cuenca mediterránea andaluza,benínar,70.0,0
+,,,,,,,,,,325,guadalquivir,vadomojón,163.0,0
+6110002.0,charco redondo,charco redondo reservoir,"36,2322004530001","-5,54416164299994",cuencas mediterraneas andaluzas,cádiz,andalucía,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1939,326,cuenca mediterránea andaluza,charco redondo,82.0,0
+,,,,,,,,,,328,guadalete-barbate,guadalcacín ii,800.0,0
+4100025.0,cancho del fresno,cancho del fresno,"39,3931095610001","-5,39044150299998",guadiana,cáceres,extremadura,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1074,329,guadiana,cancho del fresno,15.0,0
+4130017.0,castilseras,castilseras,"38,738908709","-4,80134611699998",guadiana,ciudad real,castilla - la mancha,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1105,330,guadiana,castilseras,5.0,0
+4100012.0,ruecas,ruecas,"39,267439745","-5,49598021299994",guadiana,cáceres,extremadura,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1062,333,guadiana,ruecas,44.0,0
+4100007.0,sierra brava,sierra brava,"39,1932626620001","-5,64510043299993",guadiana,cáceres,extremadura,presa de fábrica de gravedad (hormigón compactado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1057,336,guadiana,sierra brava,233.0,0
+,,,,,,,,,,337,guadiana,villalba de los barros,106.0,0
+1320011.0,peñarrubia,peñarrubia reservoir,"42,4564492920001","-6,81942030899995",miño-sil,ourense,galicia,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=96,339,miño - sil,peñarrubia,13.0,1
+1240017.0,"rozas, las","rozas, las","42,9069858300001","-6,35038478399997",miño-sil,león,castilla y león,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=50,341,miño - sil,"rozas, las",28.0,1
+,,,,,,,,,,342,duero,"agavanzal, nª sª de",36.0,1
+,,,,,,,,,,343,duero,"pontón alto, el",7.0,0
+,,,,,,,,,,348,tajo,alcántara,3162.0,1
+,,,,,,,,,,350,tajo,santillana,91.0,0
+3280030.0,san juan,san juan reservoir,"40,373071902","-4,31198048099998",tajo,madrid,comunidad de madrid,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=807,351,tajo,san juan,148.0,0
+3280027.0,san juan,san juan reservoir,"40,3694450950001","-4,31798776699998",tajo,madrid,comunidad de madrid,presa de fábrica de contrafuertes,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=805,351,tajo,san juan,148.0,0
+,,,,,,,,,,352,júcar,buseo,8.0,0
+9220061.0,escarra,escarra reservoir,"42,7450247100001","-0,352936039999975",ebro,huesca,aragón,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2476,355,ebro,escarra,5.0,1
+9220091.0,respomuso,respomuso reservoir,"42,8156272250001","-0,297330793999947",ebro,huesca,aragón,presa de fábrica de contrafuertes,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2505,356,ebro,respomuso,18.0,1
+,,,,,,,,,,357,ebro,sistema aguas limpias,18.0,1
+9440009.0,santolea,santolea reservoir,"40,772565747","-0,31769404299996",ebro,teruel,aragón,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2802,359,ebro,santolea,65.0,0
+,,,,,,,,,,360,ebro,urdiceto,5.0,1
+,,,,,,,,,,362,galicia costa,"forcadas, as",11.0,0
+,,,,,,,,,,367,guadalquivir,bembézar,347.0,0
+5140036.0,cordobilla,cordobilla,"37,3492563180001","-4,72116142999994",guadalquivir,sevilla,andalucía,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1458,369,guadalquivir,cordobilla,34.0,0
+,,,,,,,,,,371,guadalquivir,josé torán,113.0,0
+4060051.0,alange,alange reservoir,"38,7874608500001","-6,26830306899996",guadiana,badajoz,extremadura,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=978,374,guadiana,alange,880.0,0
+5110015.0,"hurones, los",embalse de los hurones,"36,6613705560001","-5,56192533699993",guadalete y barbate,cádiz,andalucía,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1340,375,guadalete-barbate,"hurones, los",135.0,0
+,,,,,,,,,,376,guadiana,andévalo,634.0,0
+,,,,,,,,,,377,guadiana,garcía de sola,554.0,0
+4060067.0,valuengo,valuengo,"38,301870679","-6,67658085999994",guadiana,badajoz,extremadura,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=992,381,guadiana,valuengo,20.0,0
+,,,,,,,,,,382,miño - sil,guístolas,5.0,1
+,,,,,,,,,,383,miño - sil,san martiño,10.0,1
+1320028.0,santa eulalia,santa eulalia,"42,3483453630001","-7,06397987999998",miño-sil,ourense,galicia,presa de fábrica de bóveda,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=113,384,miño - sil,santa eulalia,10.0,1
+2240006.0,villameca,villameca reservoir,"42,6484728770001","-6,07216067399997",duero,león,castilla y león,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=290,387,duero,villameca,20.0,0
+2240013.0,villameca,villameca reservoir,"42,64729808","-6,06777581499995",duero,león,castilla y león,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=297,387,duero,villameca,20.0,0
+2240003.0,villameca,villameca,"42,648767698","-6,05942422599998",duero,león,castilla y león,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=287,387,duero,villameca,20.0,0
+3450022.0,finisterre,finisterre,"39,649443492","-3,65015487999995",tajo,toledo,castilla - la mancha,presa de materiales sueltos homogénea,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=878,388,tajo,finisterre,133.0,0
+,,,,,,,,,,389,tajo,pinilla,38.0,0
+7300017.0,santomera,santomera reservoir,"38,0953790500001","-1,08850565499995",segura,murcia,región de murcia,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2053,390,segura,santomera,26.0,0
+7300019.0,santomera,santomera reservoir,"38,09411349","-1,08937104299997",segura,murcia,región de murcia,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2055,390,segura,santomera,26.0,0
+9430006.0,ciurana,siurana reservoir,"41,2495806650001","0,913874355000075",ebro,tarragona,cataluña,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2772,391,ebro,ciurana,12.0,0
+9430002.0,guiamets,guiamets,"41,098764213","0,751588232000074",ebro,tarragona,cataluña,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2768,392,ebro,guiamets,10.0,0
+,,,,,,,,,,395,ebro,loteta (la),104.0,0
+9260019.0,pajares,pajares reservoir,"42,0890324270001","-2,61013101999993",ebro,la rioja,la rioja,presa de materiales sueltos homogénea,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2679,396,ebro,pajares,36.0,0
+9220042.0,"peña, la","peña, la","42,3833827130001","-0,735549655999932",ebro,huesca,aragón,presa de fábrica de mampostería,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2458,397,ebro,"peña, la",15.0,0
+9220071.0,vadiello,vadiello,"42,2412072050001","-0,278563394999935",ebro,huesca,aragón,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2486,398,ebro,vadiello,16.0,0
+,,,,,,,,,,400,cantábrico occidental,"cohilla, la",12.0,1
+,,,,,,,,,,401,cantábrico occidental,salime,266.0,1
+,,,,,,,,,,402,guadalquivir,bermejales,103.0,0
+,,,,,,,,,,403,guadalquivir,"breña ii, la",823.0,0
+5230051.0,encinarejo,encinarejo,"38,164548686","-3,99287874699996",guadalquivir,jaén,andalucía,presa de fábrica de mampostería,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1586,404,guadalquivir,encinarejo,15.0,1
+,,,,,,,,,,405,guadalquivir,el portillo,33.0,0
+5230032.0,giribaile,giribaile,"38,0911996560001","-3,51273384599995",guadalquivir,jaén,andalucía,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1568,408,guadalquivir,giribaile,491.0,0
+,,,,,,,,,,409,guadalquivir,jándula,325.0,0
+5180005.0,san clemente,embalse de san clemente,"37,8575319010001","-2,64936869299993",guadalquivir,granada,andalucía,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1508,413,guadalquivir,san clemente,120.0,0
+4060047.0,brovales,brovales,"38,345277652","-6,69588046499996",guadiana,badajoz,extremadura,presa de fábrica de contrafuertes,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=974,418,guadiana,brovales,7.0,0
+,,,,,,,,,,425,guadiana,zújar,723.0,0
+,,,,,,,,,,426,miño - sil,bárcena,341.0,0
+,,,,,,,,,,428,miño - sil,pías (san agustín),10.0,1
+,,,,,,,,,,429,duero,arlanzón,23.0,0
+2050016.0,castro de las cogotas,castro de las cogotas,"40,7245279160001","-4,69718935299994",duero,ávila,castilla y león,presa de fábrica de bóveda,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=223,430,duero,castro de las cogotas,59.0,0
+3190017.0,"atance, el",el atance reservoir,"41,075332577","-2,78506228099997",tajo,guadalajara,castilla - la mancha,presa de fábrica de gravedad (hormigón compactado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=753,433,tajo,"atance, el",35.0,0
+,,,,,,,,,,434,tajo,molino de chincha,6.0,1
+3280063.0,picadas,picadas reservoir,"40,3333175330001","-4,24917123099993",tajo,madrid,comunidad de madrid,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=840,435,tajo,picadas,15.0,0
+3450004.0,"portiña, la","la portiña reservoir, talavera de la reina","39,996548874","-4,84137628499997",tajo,toledo,castilla - la mancha,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=861,436,tajo,"portiña, la",5.0,0
+7020004.0,taibilla,taibilla,"38,192427536","-2,26193352199994",segura,albacete,castilla - la mancha,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2006,437,segura,taibilla,10.0,0
+9220095.0,lanuza,lanuza reservoir,"42,750213783","-0,314386454999976",ebro,huesca,aragón,presa de fábrica de bóveda,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2509,439,ebro,lanuza,17.0,0
+9220059.0,llauset,llauset,"42,5809309520001","0,694450386000028",ebro,huesca,aragón,presa de fábrica de bóveda,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2474,440,ebro,llauset,17.0,1
+,,,,,,,,,,441,ebro,nagore,5.0,0
+,,,,,,,,,,443,ebro,mequinenza,1534.0,1
+,,,,,,,,,,444,cantábrico occidental,alsa - mediajo,33.0,1
+1310003.0,añarbe,añarbe,"43,21230153","-1,87524544699994",cantabrico oriental,gipuzkoa/guipúzcoa,país vasco,presa de fábrica de arco-gravedad,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=78,445,cantábrico oriental,añarbe,44.0,0
+1310001.0,añarbe,añarbe,"43,2126734980001","-1,87827944599996",cantabrico oriental,gipuzkoa/guipúzcoa,país vasco,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=76,445,cantábrico oriental,añarbe,44.0,0
+9310007.0,yesa,yesa reservoir,"42,615335069","-1,18301587299993",ebro,navarra,comunidad foral de navarra,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2719,447,ebro,yesa,470.0,0
+,,,,,,,,,,448,ebro,sistema valle de arán,23.0,1
+15200005.0,urkulu,urkulu reservoir,"43,0225055220001","-2,47053633499996",cantabrico oriental,gipuzkoa/guipúzcoa,país vasco,presa de materiales sueltos de pantalla de hormigón,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=3120,449,cuencas internas del país vasco,urkulu,10.0,0
+,,,,,,,,,,451,cantábrico oriental,ibiur,8.0,0
+1270010.0,montefurado,montefurado,"42,390996026","-7,21834378999995",miño-sil,lugo,galicia,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=70,452,miño - sil,montefurado,11.0,1
+,,,,,,,,,,453,duero,águeda,24.0,0
+2490003.0,cernadilla,cernadilla reservoir,"42,0191548230001","-6,45932291799994",duero,zamora,castilla y león,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=470,455,duero,cernadilla,255.0,1
+,,,,,,,,,,458,tajo,azután,113.0,1
+,,,,,,,,,,461,ebro,albiña,6.0,0
+,,,,,,,,,,462,ebro,búbal,64.0,0
+14150005.0,eume,eume,"43,4071984460001","-8,01105708299997",galicia-costa,a coruña,galicia,presa de fábrica de bóveda,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=3084,465,galicia costa,eume,123.0,1
+,,,,,,,,,,467,cuencas internas de cataluña,sant pons,25.0,0
+,,,,,,,,,,468,ebro,terradets,33.0,1
+,,,,,,,,,,471,guadalquivir,francisco abellán,58.0,0
+,,,,,,,,,,474,guadalquivir,"melonares, los",186.0,0
+5230022.0,rumblar,rumblar reservoir,"38,1606132000001","-3,80533125699998",guadalquivir,jaén,andalucía,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1558,475,guadalquivir,rumblar,140.0,0
+,,,,,,,,,,476,guadalquivir,san rafael de navallana,157.0,0
+,,,,,,,,,,478,cuenca mediterránea andaluza,conde guadalhorce,83.0,0
+1320015.0,"conchas, las","conchas, las","41,944252453","-8,03492920899993",miño-sil,ourense,galicia,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=100,487,miño - sil,"conchas, las",80.0,1
+1270006.0,sequeiros,sequeiros,"42,450804406","-7,25122124099994",miño-sil,lugo,galicia,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=66,488,miño - sil,sequeiros,11.0,1
+2240029.0,barrios de luna,reservoir of barrios de luna,"42,8497176120001","-5,86372470099997",duero,león,castilla y león,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=312,489,duero,barrios de luna,308.0,0
+,,,,,,,,,,490,duero,rábanos,8.0,1
+,,,,,,,,,,492,tajo,pálmaces,31.0,0
+3450011.0,rosarito,rosarito reservoir,"40,110346936","-5,32378188799993",tajo,ávila,castilla y león,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=867,493,tajo,rosarito,93.0,0
+3450012.0,rosarito,rosarito reservoir,"40,083403864","-5,30254088699996",tajo,toledo,castilla - la mancha,presa de materiales sueltos homogénea,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=868,493,tajo,rosarito,93.0,0
+3100007.0,valdecañas,valdecañas reservoir,"39,7781074380001","-5,61185123699994",tajo,cáceres,extremadura,presa de fábrica de bóveda,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=541,495,tajo,valdecañas,1446.0,1
+7020003.0,camarillas,camarillas reservoir,"38,3399580770001","-1,64879497099997",segura,albacete,castilla - la mancha,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2005,497,segura,camarillas,37.0,0
+7300021.0,"cierva, la",embalse de la cierva,"38,0602631900001","-1,48765333199998",segura,murcia,región de murcia,presa de fábrica de mampostería,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2057,498,segura,"cierva, la",7.0,0
+7300010.0,argos,embalse del argos,"38,1723978200001","-1,73353032399996",segura,murcia,región de murcia,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2046,499,segura,argos,11.0,0
+,,,,,,,,,,502,ebro,negro (lago),6.0,1
+,,,,,,,,,,503,ebro,san bartolomé,6.0,0
+,,,,,,,,,,506,ebro,sistema alto caldarés,18.0,1
+,,,,,,,,,,508,ebro,sobrón,20.0,1
+,,,,,,,,,,509,cantábrico occidental,alfilorios,9.0,0
+,,,,,,,,,,512,guadalquivir,martín gonzalo,20.0,0
+5410106.0,"pintado, el","pintado, el","37,9842195160001","-5,95427318399993",guadalquivir,sevilla,andalucía,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1749,513,guadalquivir,"pintado, el",215.0,0
+5230029.0,quiebrajano,quiebrajano,"37,6330053230001","-3,72850877899998",guadalquivir,jaén,andalucía,presa de fábrica de bóveda,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1565,514,guadalquivir,quiebrajano,33.0,0
+5230005.0,tranco de beas,tranco de beas,"38,1742016740001","-2,79602526599996",guadalquivir,jaén,andalucía,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1541,518,guadalquivir,tranco de beas,506.0,0
+,,,,,,,,,,522,guadiana,vega del jabalón,34.0,0
+4210081.0,corumbel bajo,corumbel bajo,"37,449084574","-6,57274195299993","tinto, odiel y piedras",huelva,andalucía,presa de materiales sueltos de pantalla de hormigón,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1285,523,tinto. odiel y piedras,corumbel bajo,19.0,0
+,,,,,,,,,,524,tinto. odiel y piedras,los machos,12.0,0
+,,,,,,,,,,525,tinto. odiel y piedras,olivargas,29.0,0
+2240009.0,casares de arbas,casares de arbas,"42,92752926","-5,75913376799997",duero,león,castilla y león,presa de fábrica de arco-gravedad,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=293,528,duero,casares de arbas,37.0,0
+2050003.0,serones,serones,"40,6897420190001","-4,47398559699997",duero,ávila,castilla y león,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=210,529,duero,serones,6.0,0
+,,,,,,,,,,530,tajo,aceña,24.0,0
+3190011.0,beleña,beleña,"40,9338651420001","-3,19600748099998",tajo,guadalajara,castilla - la mancha,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=747,532,tajo,beleña,53.0,0
+3450045.0,"castro, el","castro, el","39,8064449990001","-3,75294972199993",tajo,toledo,castilla - la mancha,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=900,533,tajo,"castro, el",8.0,0
+3370002.0,navamuño,navamuño reservoir,"40,347880305","-5,77448415699996",tajo,salamanca,castilla y león,presa de materiales sueltos de pantalla de hormigón,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=851,534,tajo,navamuño,14.0,0
+,,,,,,,,,,536,tajo,"vellón,el-(pedrezuela)",41.0,0
+7300037.0,valdeinfierno,embalse de valdeinfierno,"37,8054910990001","-1,96467018699997",segura,murcia,región de murcia,presa de fábrica de arco-gravedad,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2073,539,segura,valdeinfierno,14.0,0
+,,,,,,,,,,540,júcar,benagéber,228.0,0
+,,,,,,,,,,541,júcar,beniarrés,30.0,0
+,,,,,,,,,,542,júcar,el naranjero,29.0,0
+,,,,,,,,,,544,júcar,la muela,29.0,1
+,,,,,,,,,,545,júcar,la toba,11.0,1
+8120002.0,sichar,sichar,"40,0100628180001","-0,231145701999935",jucar,castelló/castellón,comunitat valenciana,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2258,546,júcar,sichar,49.0,0
+,,,,,,,,,,547,júcar,maría cristina,20.0,0
+,,,,,,,,,,548,ebro,bramatuero alto,5.0,1
+9220064.0,escales,escales reservoir,"42,326356092","0,744016995000038",ebro,huesca,aragón,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2479,549,ebro,escales,152.0,1
+,,,,,,,,,,550,ebro,enciso,46.0,1
+9310029.0,itoiz,itoizko urtegia,"42,802482335","-1,36089896199996",ebro,navarra,comunidad foral de navarra,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2741,551,ebro,itoiz,417.0,0
+9310028.0,itoiz,itoizko urtegia,"42,800740997","-1,36949290399997",ebro,navarra,comunidad foral de navarra,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2740,551,ebro,itoiz,417.0,0
+,,,,,,,,,,552,galicia costa,fervenza,104.0,1
+,,,,,,,,,,553,galicia costa,"ribeira, a",33.0,1
+10080007.0,sau,pantà de sau,"41,967837526","2,41280096100007",cuencas internas de cataluña,barcelona,cataluña,presa de fábrica de arco-gravedad,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2888,554,cuencas internas de cataluña,sau,169.0,0
+,,,,,,,,,,555,galicia costa,riocobo,6.0,0
+,,,,,,,,,,556,ebro,"val, el",24.0,0
+1330019.0,tanes,tanes,"43,220949729","-5,42776056999998",cantabrico occidental,asturias,principado de asturias,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=149,560,cantábrico occidental,tanes,38.0,0
+5230013.0,aguascebas,aguascebas,"38,0435042350001","-2,95222543699992",guadalquivir,jaén,andalucía,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1549,562,guadalquivir,aguascebas,6.0,0
+,,,,,,,,,,563,guadalquivir,cantillana,21.0,1
+,,,,,,,,,,564,guadalquivir,guadalén,168.0,0
+,,,,,,,,,,569,cuenca mediterránea andaluza,guadalhorce-guadalteba,312.0,0
+6040024.0,cuevas de almanzora,cuevas de almanzora,"37,3275930070001","-1,89673564999993",cuencas mediterraneas andaluzas,almería,andalucía,presa de materiales sueltos de pantalla de hormigón,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1915,570,cuenca mediterránea andaluza,cuevas de almanzora,168.0,0
+,,,,,,,,,,571,guadalete-barbate,celemín,45.0,0
+,,,,,,,,,,576,guadiana,gargáligas,21.0,0
+,,,,,,,,,,577,guadiana,los molinos,34.0,0
+,,,,,,,,,,579,miño - sil,"peares, os",182.0,1
+1320034.0,san pedro,san pedro reservoir,"42,4527079760001","-7,71396403899996",miño-sil,lugo,galicia,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=119,580,miño - sil,san pedro,6.0,1
+2490016.0,villalcampo,villalcampo reservoir,"41,4911858350001","-6,08484394399994",duero,zamora,castilla y león,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=483,584,duero,villalcampo,66.0,1
+,,,,,,,,,,586,tajo,gabriel y galán,924.0,0
+3280017.0,"jarosa, la",la jarosa reservoir,"40,6649699230001","-4,11756322999997",tajo,madrid,comunidad de madrid,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=795,588,tajo,"jarosa, la",7.0,0
+3280013.0,"jarosa, la",la jarosa reservoir,"40,6707061490001","-4,11778914799993",tajo,madrid,comunidad de madrid,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=792,588,tajo,"jarosa, la",7.0,0
+3280010.0,"pardo, el",el pardo reservoir,"40,5387773260001","-3,78893109799998",tajo,madrid,comunidad de madrid,presa de materiales sueltos homogénea,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=789,589,tajo,"pardo, el",45.0,0
+3280031.0,puentes viejas,puentes viejas reservoir,"40,9931510110001","-3,57146299099998",tajo,madrid,comunidad de madrid,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=808,590,tajo,puentes viejas,53.0,0
+,,,,,,,,,,591,tajo,torrejón (tajo - tietar),188.0,1
+,,,,,,,,,,593,segura,algeciras,45.0,0
+8440007.0,arquillo de san blas,arquillo de san blas reservoir,"40,3639950640001","-1,20489484199993",jucar,teruel,aragón,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2295,596,júcar,arquillo de san blas,22.0,0
+8460030.0,escalona,escalona reservoir,"39,1285075870001","-0,698314119999964",jucar,valència/valencia,comunitat valenciana,presa de fábrica de arco-gravedad,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2323,598,júcar,escalona,99.0,0
+9310010.0,alloz,alloz,"42,70627432","-1,94249903099995",ebro,navarra,comunidad foral de navarra,presa de fábrica de bóveda,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2722,600,ebro,alloz,84.0,0
+9500019.0,caspe,caspe reservoir,"41,2470170710001","-0,057856813999933",ebro,zaragoza,aragón,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2832,601,ebro,caspe,82.0,0
+,,,,,,,,,,602,ebro,cañón de santolea,82.0,0
+,,,,,,,,,,603,ebro,saburo (lago),11.0,1
+,,,,,,,,,,604,ebro,parras (las),5.0,0
+9010018.0,urrunaga,urrunaga reservoir,"42,957875626","-2,65412456499996",ebro,araba/álava,país vasco,presa de fábrica de contrafuertes,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2379,605,ebro,urrunaga,72.0,1
+9010019.0,urrunaga,urrunaga reservoir,"42,963849521","-2,63778333499994",ebro,araba/álava,país vasco,presa de fábrica de contrafuertes,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2380,605,ebro,urrunaga,72.0,1
+,,,,,,,,,,606,cuencas internas de cataluña,la llosa del cavall,80.0,0
+,,,,,,,,,,608,cuencas internas de cataluña,catllar,59.0,0
+,,,,,,,,,,609,cuencas internas de cataluña,foix,6.0,0
+,,,,,,,,,,610,ebro,sistema escarra,5.0,1
+9500034.0,"torcas, las",las trocas reservoir,"41,294686266","-1,08744698599997",ebro,zaragoza,aragón,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2845,611,ebro,"torcas, las",7.0,0
+1330031.0,doiras,doiras,"43,385947786","-6,82525303699992",cantabrico occidental,asturias,principado de asturias,presa de fábrica de arco-gravedad,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=161,612,cantábrico occidental,doiras,119.0,1
+,,,,,,,,,,613,cantábrico occidental,somiedo (lagos),9.0,1
+,,,,,,,,,,615,guadalquivir,agrio (aznalcollar),40.0,0
+,,,,,,,,,,618,guadalquivir,iznájar,981.0,0
+5230007.0,zocueca,zocueca,"38,095561881","-3,83109787299998",guadalquivir,jaén,andalucía,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1543,621,guadalquivir,zocueca,5.0,0
+,,,,,,,,,,623,guadalete-barbate,arcos de la frontera,14.0,0
+5110061.0,bornos,bornos reservoir,"36,7905754980001","-5,76131138199997",guadalete y barbate,cádiz,andalucía,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1385,624,guadalete-barbate,bornos,204.0,0
+4060071.0,horno tejero,horno tejero,"39,1524666400001","-6,43288892199996",guadiana,badajoz,extremadura,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=996,626,guadiana,horno tejero,24.0,0
+4130039.0,gasset,gasset,"39,1285987630001","-3,93764624399995",guadiana,ciudad real,castilla - la mancha,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1127,627,guadiana,gasset,42.0,0
+4060095.0,orellana,embalse de orellana,"38,986024098","-5,53804342499996",guadiana,badajoz,extremadura,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1020,628,guadiana,orellana,824.0,0
+,,,,,,,,,,630,guadiana,torre de abrahán,183.0,0
+1240023.0,matalavilla,matalavilla,"42,8344463670001","-6,45355737699998",miño-sil,león,castilla y león,presa de fábrica de bóveda,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=56,631,miño - sil,matalavilla,65.0,1
+1320038.0,prada,prada,"42,310674749","-7,04066238099995",miño-sil,ourense,galicia,presa de fábrica de contrafuertes,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=123,632,miño - sil,prada,122.0,1
+2240004.0,riaño,riaño reservoir,"42,933746397","-5,08475288599993",duero,león,castilla y león,presa de fábrica de bóveda,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=288,638,duero,riaño,664.0,0
+2370033.0,villagonzalo,villagonzalo reservoir,"40,8732344370001","-5,49557555299998",duero,salamanca,castilla y león,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=393,639,duero,villagonzalo,6.0,0
+,,,,,,,,,,640,duero,valparaíso,169.0,1
+3190033.0,alcorlo,alcorlo reservoir,"41,008581625","-3,02478278699994",tajo,guadalajara,castilla - la mancha,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=768,641,tajo,alcorlo,180.0,0
+,,,,,,,,,,644,tajo,navalcán,34.0,0
+3190031.0,"tajera, la",reservoir la tajera,"40,839152359","-2,61773660099993",tajo,guadalajara,castilla - la mancha,presa de fábrica de bóveda,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=766,645,tajo,"tajera, la",70.0,0
+,,,,,,,,,,646,júcar,alarcón,1118.0,0
+,,,,,,,,,,648,ebro,bachimaña (lago),7.0,0
+,,,,,,,,,,649,ebro,alcañiz (estanca),7.0,0
+9500035.0,maidevera,reservoir of maidevera,"41,5738088460001","-1,76909459999996",ebro,zaragoza,aragón,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2846,650,ebro,maidevera,21.0,0
+9500025.0,maidevera,reservoir of maidevera,"41,5747146200001","-1,76034515199996",ebro,zaragoza,aragón,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2837,650,ebro,maidevera,21.0,0
+10170012.0,susqueda,susqueda reservoir,"41,979226356","2,52687350900004",cuencas internas de cataluña,girona,cataluña,presa de fábrica de bóveda,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2908,653,cuencas internas de cataluña,susqueda,233.0,0
+14150023.0,barrie de la maza,barrie de la maza,"42,8649691900001","-8,79707815799998",galicia-costa,a coruña,galicia,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=3102,654,galicia costa,barrie de la maza,31.0,1
+,,,,,,,,,,656,galicia costa,eiras,22.0,0
+,,,,,,,,,,657,ebro,tremp ó talárn,227.0,1
+5180010.0,colomera,colomera reservoir,"37,3996522370001","-3,72326104199993",guadalquivir,granada,andalucía,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1513,658,guadalquivir,colomera,42.0,0
+5410035.0,gergal,gergal,"37,5672733050001","-6,04905378099994",guadalquivir,sevilla,andalucía,presa de fábrica de arco-gravedad,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1678,659,guadalquivir,gergal,36.0,0
+5410085.0,"minilla, la","minilla, la","37,664790501","-6,18562063899998",guadalquivir,sevilla,andalucía,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1728,660,guadalquivir,"minilla, la",60.0,0
+5140044.0,yeguas,embalse de yeguas,"38,067110868","-4,25109803499993",guadalquivir,córdoba,andalucía,presa de materiales sueltos zonificada o de núcleo,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1465,665,guadalquivir,yeguas,229.0,0
+,,,,,,,,,,669,guadiana,cornalbo,11.0,0
+4100015.0,cijara,cíjara reservoir,"39,373622884","-5,01612487499995",guadiana,cáceres,extremadura,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1065,670,guadiana,cijara,1505.0,0
+,,,,,,,,,,672,guadiana,la colada,58.0,0
+4060068.0,nogales,nogales reservoir,"38,563891508","-6,73651674799993",guadiana,badajoz,extremadura,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=993,673,guadiana,nogales,18.0,0
+,,,,,,,,,,674,guadiana,proserpina,5.0,0
+,,,,,,,,,,676,miño - sil,san sebastián,46.0,1
+,,,,,,,,,,677,duero,porma-(juan benet),318.0,0
+2370007.0,saucelle,saucelle reservoir,"41,047128807","-6,80401964899994",duero,salamanca,castilla y león,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=367,678,duero,saucelle,181.0,1
+2370010.0,santa teresa,santa teresa reservoir,"40,666865961","-5,60128066699997",duero,salamanca,castilla y león,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=370,679,duero,santa teresa,496.0,0
+2370018.0,santa teresa,santa teresa reservoir,"40,66633103","-5,60981228099996",duero,salamanca,castilla y león,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=378,679,duero,santa teresa,496.0,0
+3190001.0,almoguera,faltos,"40,2743056580001","-2,95882007899996",tajo,guadalajara,castilla - la mancha,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=737,680,tajo,almoguera,7.0,1
+3450015.0,guajaraz,guajaraz reservoir,"39,7999260600001","-4,08754612399997",tajo,toledo,castilla - la mancha,presa de materiales sueltos de pantalla asfáltica,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=871,681,tajo,guajaraz,18.0,0
+,,,,,,,,,,683,segura,cenajo,472.0,0
+,,,,,,,,,,685,júcar,tous - la ribera,379.0,0
+9220054.0,mediano,mediano reservoir,"42,313617417","0,21073754300005",ebro,huesca,aragón,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2469,687,ebro,mediano,436.0,0
+,,,,,,,,,,688,ebro,lechago,18.0,0
+9430003.0,ribarroja,ribarroja dam,"41,2436146920001","0,432598110000072",ebro,tarragona,cataluña,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2769,690,ebro,ribarroja,210.0,1
+,,,,,,,,,,692,ebro,tort (lago),7.0,1
+,,,,,,,,,,693,guadalquivir,alcalá del río,21.0,1
+5140038.0,guadalmellato,embalse de guadalmellato,"38,0420292630001","-4,67345434199996",guadalquivir,córdoba,andalucía,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1460,695,guadalquivir,guadalmellato,162.0,0
+6290014.0,casasola,casasola reservoir,"36,80441203","-4,49571219199993",cuencas mediterraneas andaluzas,málaga,andalucía,presa de fábrica de arco-gravedad,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=1967,704,cuenca mediterránea andaluza,casasola,23.0,0
+,,,,,,,,,,714,tinto. odiel y piedras,odiel,8.0,0
+,,,,,,,,,,715,miño - sil,bao,238.0,1
+,,,,,,,,,,716,miño - sil,"san, estevo",213.0,1
+2340012.0,compuerto,reservoir of compuerto,"42,860854868","-4,82693537899996",duero,palencia,castilla y león,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=349,719,duero,compuerto,95.0,0
+2340005.0,requejada,requejada reservoir,"42,9062072310001","-4,52945603999996",duero,palencia,castilla y león,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=342,721,duero,requejada,66.0,0
+3100091.0,borbollon,borbollon,"40,1253008750001","-6,57693620899994",tajo,cáceres,extremadura,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=625,722,tajo,borbollon,88.0,0
+3100196.0,borbollon,borbollon,"40,132771828","-6,58570755499994",tajo,cáceres,extremadura,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=726,722,tajo,borbollon,88.0,0
+3450047.0,cazalegas,cazalegas dam,"40,01298709","-4,70624804799996",tajo,toledo,castilla - la mancha,presa de materiales sueltos de pantalla de hormigón,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=902,724,tajo,cazalegas,11.0,0
+,,,,,,,,,,725,tajo,castrejón,44.0,1
+3100117.0,cedillo,cedillo reservoir,"39,663782181","-7,53999733599994",tajo,cáceres,extremadura,presa de fábrica de arco-gravedad,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=650,727,tajo,cedillo,260.0,1
+3280003.0,riosequillo,riosequillo reservoir,"40,9846013600001","-3,64825393599995",tajo,madrid,comunidad de madrid,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=782,729,tajo,riosequillo,50.0,0
+,,,,,,,,,,730,tajo,portaje,23.0,0
+,,,,,,,,,,731,tajo,torcón,7.0,0
+8460012.0,algar,algar,"39,787914266","-0,37682482699995",jucar,valència/valencia,comunitat valenciana,presa mixta,https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2307,733,júcar,algar,6.0,0
+8030027.0,amadorio,amadorio,"38,5337220420001","-0,264786822999952",jucar,alacant/alicante,comunitat valenciana,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2183,734,júcar,amadorio,16.0,0
+,,,,,,,,,,735,júcar,bellús,69.0,0
+,,,,,,,,,,739,ebro,laverné,38.0,0
+9440011.0,pena,pena,"40,8194375680001","0,134230182000067",ebro,teruel,aragón,presa de fábrica de gravedad (hormigón vibrado),https://sig.mapama.gob.es/webservices/clientews/snczi/default.aspx?nombre=egispe_presa&claves=id_infraestructura&valores=2804,741,ebro,pena,19.0,0
+,,,,,,,,,,743,ebro,santa maría de belsué,14.0,0
+,,,,,,,,,,744,galicia costa,villagudín,18.0,0
